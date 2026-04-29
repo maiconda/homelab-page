@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Maiconda Homelab Dashboard",
+  title: "teste ci/cd",
   description: "Maiconda Homelab Dashboard",
 };
 
