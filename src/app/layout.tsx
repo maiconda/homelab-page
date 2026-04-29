@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "teste ci/cd",
-  description: "Maiconda Homelab Dashboard",
+  title: "homelab dashboard",
+  description: "homelab dashboard",
 };
 
 export default function RootLayout({
